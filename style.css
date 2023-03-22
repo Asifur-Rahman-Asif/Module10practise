@@ -114,3 +114,15 @@ hr {
     padding: 10px;
     margin: 10px;
 }
+
+/*
+media query sec 
+*/
+/* mobile screan  */
+@media only screen and (max-width:688px; ) {
+    .head {
+        display: flex;
+        flex-direction: column;
+
+    }
+}
